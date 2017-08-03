@@ -1,9 +1,9 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: Remxcode
+subtitle: 后端开发
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+description: 后端开发
+creator: <a href="https://remxcode.github.io/remxcode/">@Remxcode</a>
 
 url: "http://vno.onevcat.com"
 
@@ -37,9 +37,9 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: Remxcode
+    github: Remxcode
+    twitter: Remxcode
     gplus: 107108267983477358170
     mail: onev@onevcat.com
 
